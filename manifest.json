@@ -1,0 +1,15 @@
+{
+  "Name": "Holsteins",
+  "Author": "DragonMaus",
+  "Version": "1.0.0",
+  "Description": "Replace your white cows with holsteins",
+  "UniqueID": "DragonMaus.Holsteins",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.19.1"
+  },
+  "MinimumApiVersion": "3.8.0",
+  "UpdateKeys": [
+    "GitHub:dragonmaus/holsteins"
+  ]
+}
